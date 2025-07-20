@@ -15,8 +15,13 @@ use pocketmine\nbt\tag\StringTag;
 use pocketmine\player\Player;
 use pocketmine\tile\Tile;
 
-
 class DispenserBlock extends Solid
 {
+
+  /*Construct dispenser block*/  
+  public function __construct()
+  {
+
+  }
 
 }
