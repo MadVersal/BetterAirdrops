@@ -1,0 +1,5 @@
+name: BetterAirDrops
+version: "0.0.1-BETA"
+author: MadVersal
+main: madversal\airdrops\Loader
+api: 5.0.0
