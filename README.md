@@ -1,0 +1,2 @@
+# BetterAirdrops
+a airdrops plugin
