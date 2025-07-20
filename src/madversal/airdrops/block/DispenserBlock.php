@@ -2,7 +2,7 @@
 
 namespace madversal\airdrops\block;
 
-//dependencias por aca.
+//dependencias por aca, no olvidar hacer el bloque xd.
 
 use pocketmine\block\Block;
 use pocketmine\block\BlockTypeIds;
